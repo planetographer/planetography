@@ -1,0 +1,88 @@
+body {
+  background: linear-gradient(to bottom, #000011, #001a33);
+  color: #f0f0f0;
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+}
+
+p {
+  font-size: 300%;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  font-size: 500%;
+  text-shadow: 2px 2px 8px;
+  margin-top: 20px;
+}
+
+img {
+  display: block; 
+  margin: 0 auto; 
+  max-width: 10%;
+  height: auto;
+}
+
+.title {
+  display: block;
+  margin: 0 auto;
+  max-width: 80%;
+  height: auto;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0 auto;  
+}
+
+li {
+  font-size: 250%;
+  margin: 10px 0;
+}
+
+button {
+  font-size: 300%;
+  margin: 10px; 
+  border: 2px solid #ffffff;
+  border-radius: 8px;
+}
+
+button:hover {
+  transform:scale(1.1);
+   cursor: pointer;
+}
+
+.mercury-button {
+  background:linear-gradient(to bottom, #7e7e7e, #aeaeae);
+}
+
+.venus-button {
+  background:linear-gradient(to bottom, #417500, #6fd000);
+}
+
+.earth-button {
+  background:linear-gradient(to bottom, #8b81ff, #008c07);
+}
+
+.mars-button {
+  background:linear-gradient(to bottom, #ffffff, #ff0000);
+}
+
+.jupiter-button {
+  background:linear-gradient(to bottom, #157100, #94ed82);
+}
+
+.saturn-button {
+   background:linear-gradient(to bottom, #c6ffb9, #94ed82);
+}
+
+.uranus-button {
+  background:linear-gradient(to bottom, #80dbff, #88d1ff);
+}
+
+.neptune-button {
+  background:linear-gradient(to bottom, #7050ff, #3392ff);
+}
+
+
